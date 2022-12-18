@@ -2,6 +2,8 @@
 
 > I configure it with 5 layers for better comfort, and for my own pleasure I put a layer with the number keys
 
+    In order to compile the keyboard configuration, it is done with the following command qmk compile -kb crkbd -km <keyboard_name>
+    
 ## First Layers *QWERTY*
 
 ![Image alt text](./images/qwerty.png)
